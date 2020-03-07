@@ -1,4 +1,6 @@
-Yamaha PSR-70 keyboard reverse engineering project
+# Yamaha PSR-70 keyboard reverse engineering project
+
+This project's goal is to reverse engineer and document YM3806 and YM2154 chips used in PSR-70 and few other Yamaha keyboards.
 
 * Hardware: 
 ** Block diagram
