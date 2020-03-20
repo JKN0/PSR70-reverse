@@ -1,6 +1,6 @@
 # Yamaha PSR-70 keyboard reverse engineering project
 
-Project's goal is to reverse engineer and document Yamaha OPQ (YM3806/YM3533) RYP4 (YM2154) chips used in PSR-70 and a few other Yamaha keyboards.
+Project's goal is to reverse engineer and document Yamaha OPQ (YM3806/YM3533) and RYP4 (YM2154) chips used in PSR-70 and a few other Yamaha keyboards.
 
 - Hardware: 
   - Block diagram
