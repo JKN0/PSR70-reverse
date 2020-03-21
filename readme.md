@@ -30,6 +30,7 @@ Files:
   - Block diagram
   - Reverse engineered address and I/O decoders
   - Adress and I/O maps
+  - Photo of the main board
 
 - Software
   - EPROM
