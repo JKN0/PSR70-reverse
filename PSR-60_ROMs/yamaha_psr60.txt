@@ -1,0 +1,22 @@
+Yamaha PSR-60
+
+Desoldered maskroms, 27C256-compatible.
+
+-------IC109-------
+ YAMAHA
+ XA084B0
+ 7247-7852
+-------------------
+date print: 8710EBI
+
+
+-------IC110-------
+ YAMAHA
+ XA041A0
+ 7247-7851
+-------------------
+date print: 8710EBI
+
+
+Edward d-tech
+www.dtech.lv

@@ -20,7 +20,7 @@ Main chips in the PSR-70 are:
 - YM2154 RYP4 PCM drum chip
 - 2 x YM2190 serial ROM, drum samples for YM2154
 - 2 x YM3012 2 channel DAC
-- Unknown Yamaha chip IG14330, handles communication to front panel buttens/leds
+- Unknown Yamaha chip IG14330, handles communication to front panel buttons/leds
 - Yamaha mask-ROM, contains sound data and parts of the firmware
 
 
@@ -33,10 +33,10 @@ Files:
   - Photo of the main board
 
 - Software
-  - EPROM
+  - EPROM (IC109)
     - Intel hex dump
     - Disassembly listing
-  - ROM2
+  - ROM2 (IC110)
     - Hex dump
     - Disassembly listing
   - Test programs
@@ -45,3 +45,13 @@ Files:
 
 - Guides
   - OPQ Programmer's Guide
+
+- PSR-60_ROMs
+  - PSR-60 IC109 binary
+  - PSR-60 IC109 hex dump
+  - PSR-60 IC109 disassembly listing
+  - PSR-60 IC110 binary
+  - PSR-60 IC110 hex dump
+  - PSR-60 IC110 disassembly listing
+
+PSR-60 ROM files are courtesy of Edward d-tech.
