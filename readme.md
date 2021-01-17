@@ -40,13 +40,16 @@ Files:
     - Hex dump
     - Disassembly listing
   - Test programs
-    - Hello world
-    - ROM2 dumper program
+    - Assembly
+        - Two Hello world versions
+        - ROM2 dumper program
+    - Soundtest2
+        - Serial UI for testing the YM3806
 
 - Guides
   - OPQ Programmer's Guide
 
-- PSR-60_ROMs
+- PSR-60_ROMs (for reference)
   - PSR-60 IC109 binary
   - PSR-60 IC109 hex dump
   - PSR-60 IC109 disassembly listing
