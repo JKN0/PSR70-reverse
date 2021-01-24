@@ -43,6 +43,7 @@ Files:
     - Assembly
         - Two Hello world versions
         - ROM2 dumper program
+        - First sound test program
     - Soundtest2
         - Serial UI for testing the YM3806
 
