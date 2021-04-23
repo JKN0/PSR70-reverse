@@ -58,7 +58,7 @@ Files:
   - PSR-60 IC110 hex dump
   - PSR-60 IC110 disassembly listing
 
-PSR-60 ROM files are courtesy of Edward d-tech.
+PSR-60 ROM files are courtesy of Edward from d-tech.
 
 More details of the reverse engineering project: 
 https://retroandreverse.blogspot.com/search/label/PSR-70%20reverse%20engineering
