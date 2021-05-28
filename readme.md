@@ -6,9 +6,9 @@ Current status of the project:
 - PSR-70 hardware has been reversed far enough to understand the basics, memory and I/O maps. 
 - Program ROMs have been read out, disassembled and analyzed.
 - Various test programs have been written and can be run in the PSR-70 hardware using EPROM emulator.
-- Using information gathered in previous steps, decent understanding of the OPQ chip has been gained.
-- Programmers guide V 1.0 for the OPQ has been written (file Guides/OPQ_ProgGuide.pdf).
-- RYP4 has not yet been analyzed at all.
+- Using information gathered in previous steps, decent understanding of the OPQ and RYP4 chips has been gained.
+- Programmers guide V 1.1 for the OPQ has been written (file Guides/OPQ_ProgGuide.pdf).
+- Programmers guide V 1.0 for the RYP4 has been written (file Guides/RYP4_ProgGuide.pdf).
 
 Main chips in the PSR-70 are:
 - NEC D70008 = Z80-CPU
@@ -18,10 +18,10 @@ Main chips in the PSR-70 are:
 - 82C55 parallel-I/O, keyboard scanning
 - YM3806 OPQ FM synthesizer
 - YM2154 RYP4 PCM drum chip
-- 2 x YM2190 serial ROM, drum samples for YM2154
+- 2 x YM2190 serial ROM 32 KB, drum samples for YM2154
 - 2 x YM3012 2 channel DAC
 - Unknown Yamaha chip IG14330, handles communication to front panel buttons/leds
-- Yamaha mask-ROM, contains sound data and parts of the firmware
+- Yamaha 32 KB mask-ROM, contains sound data and parts of the firmware
 
 
 Files:
@@ -45,10 +45,13 @@ Files:
         - ROM2 dumper program
         - First sound test program
     - Soundtest2
-        - Serial UI for testing the YM3806
+        - Serial UI for testing the OPQ (YM3806)
+    - Drumtest
+        - Serial UI for testing the RYP4 (YM2154
 
 - Guides
   - OPQ Programmer's Guide
+  - RYP4 Programmer's Guide
 
 - PSR-60_ROMs (for reference)
   - PSR-60 IC109 binary
