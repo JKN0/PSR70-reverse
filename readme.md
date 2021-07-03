@@ -8,7 +8,8 @@ Current status of the project:
 - Various test programs have been written and can be run in the PSR-70 hardware using EPROM emulator.
 - Using information gathered in previous steps, decent understanding of the OPQ and RYP4 chips has been gained.
 - Programmers guide V 1.1 for the OPQ has been written (file Guides/OPQ_ProgGuide.pdf).
-- Programmers guide V 1.0 for the RYP4 has been written (file Guides/RYP4_ProgGuide.pdf).
+- Programmers guide V 1.1 for the RYP4 has been written (file Guides/RYP4_ProgGuide.pdf).
+- Drum sample ROMs have been dumped.
 
 Main chips in the PSR-70 are:
 - NEC D70008 = Z80-CPU
@@ -47,12 +48,17 @@ Files:
     - Soundtest2
         - Serial UI for testing the OPQ (YM3806)
     - Drumtest
-        - Serial UI for testing the RYP4 (YM2154
+        - Serial UI for testing the RYP4 (YM2154)
 
 - Guides
   - OPQ Programmer's Guide
   - RYP4 Programmer's Guide
 
+- Sample_ROMs
+    - YM2190x sample ROM contents
+    - Sigrok
+        - Serial bus traces between YM2154 and sample ROMs
+        
 - PSR-60_ROMs (for reference)
   - PSR-60 IC109 binary
   - PSR-60 IC109 hex dump

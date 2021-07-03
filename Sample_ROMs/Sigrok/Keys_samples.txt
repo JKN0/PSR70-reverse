@@ -1,0 +1,22 @@
+Key  Sample
+C2 = Bongo 3
+D2 = Bongo 2
+E2 = Bongo 1
+F2 = Timbale Lo
+G2 = Timbale Hi
+A2 = Cuica Lo
+B2 = Cuica Hi
+C3 = Claves
+D3 = Agogo Lo
+E3 = Agogo Hi
+F3 = Claps
+A3 = BD
+B3 = Tom 3
+C4 = Tom 2
+D4 = Tom 1
+E4 = SD Lo
+F4 = SD Hi
+G4 = Rimshot
+A4 = HH Closed
+B4 = HH Open
+C4 = Ride
